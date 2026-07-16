@@ -1,0 +1,3 @@
+code . open vs code
+git hub repo
+git bash-conect local machine project to cloud
